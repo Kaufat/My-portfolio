@@ -1,0 +1,5 @@
+
+# Don't let commit files from .idea
+.idea
+# Don't let commit files from target
+target
